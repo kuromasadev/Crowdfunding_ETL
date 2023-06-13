@@ -1,9 +1,9 @@
 # Crowdfunding_ETL
  Mini Project #2 Contributors
 
-![](https://github.com/BirundhaVaratharajan)
+![Birundha](https://github.com/BirundhaVaratharajan)
 
-![](https://github.com/kuromasadev)
+![Alberto](https://github.com/kuromasadev)
 
 ## Crowdfunding Dashboard
 

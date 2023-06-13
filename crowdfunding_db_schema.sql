@@ -11,9 +11,9 @@ CREATE TABLE campaign
   outcome        TEXT    NOT NULL,
   backers_count  INT     NOT NULL,
   country        VARCHAR NOT NULL,
-  currency       DOUBLE  NOT NULL,
-  launch_date    TIME    NOT NULL,
-  end_date       TIME    NOT NULL,
+  currency       TEXT  NOT NULL,
+  launch_date    DATETIME    NOT NULL,
+  end_date       DATETIME    NOT NULL,
   Category_id    VARCHAR NOT NULL,
   Subcategory_id VARCHAR NOT NULL,
   PRIMARY KEY (cf_id)
